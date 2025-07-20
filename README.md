@@ -57,9 +57,9 @@ This project explores these questions using **Power BI**, enhancing **data story
 
 ## 🧑‍💻 Getting Started
 
-1️⃣ Clone this repository.
-2️⃣ Open the `.pbix` file using Power BI Desktop.
-3️⃣ Explore, modify, and extend the dashboard as needed.
+* Clone this repository.
+* Open the `.pbix` file using Power BI Desktop.
+* Explore, modify, and extend the dashboard as needed.
 
 ---
 
