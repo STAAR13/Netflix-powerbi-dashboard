@@ -44,7 +44,7 @@ This project explores these questions using **Power BI**, enhancing **data story
 
 ## 📷 Dashboard Preview
 
-*(Add screenshots here once uploaded for visual reference)*
+![](/Netflix-Dashboard.png)
 
 ---
 
