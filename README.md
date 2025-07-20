@@ -18,10 +18,10 @@ This project explores these questions using **Power BI**, enhancing **data story
 
 ## 📊 Dashboard Highlights
 
-✅ Movies vs. TV Shows analysis
-✅ Genre-wise average ratings
-✅ Country-wise production and ratings
-✅ Titles by rating distribution
+* Movies vs. TV Shows analysis
+* Genre-wise average ratings
+* Country-wise production and ratings
+  *Titles by rating distribution
 
 ---
 
